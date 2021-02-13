@@ -1,15 +1,15 @@
-## Welcome to GitHub Pages
+## Wilkommen auf meiner Webseite
 
-You can use the [editor on GitHub](https://github.com/NotFexDemo/NotFexDemo.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Mein Name ist Felix und dies ist ein Beispiel.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Link](https://jekyllrb.com/) 
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+```py
+print("hello)"
+# dogecoin2them00n
+```
 
 # Header 1
 ## Header 2
@@ -21,17 +21,10 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_
 
 [Link](url) and ![Image](src)
-```
+
+![Image](https://www.zooplus.de/magazin/wp-content/uploads/2020/10/kitten-sitzt-boden-768x512.jpeg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NotFexDemo/NotFexDemo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
