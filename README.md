@@ -23,7 +23,7 @@ print("hello)"
 
 **Bold** and _Italic_
 
-[Link](url) and ![Image](src)
+[Link](url)
 
 ![Image](https://www.zooplus.de/magazin/wp-content/uploads/2020/10/kitten-sitzt-boden-768x512.jpeg)
 
